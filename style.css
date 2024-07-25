@@ -33,6 +33,17 @@ section {
 }
 
 #about a {
+  text-decoration: none;
+  color: white;
+}
+
+#about button {
+  width: 150px;
+  height: 35px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: black;
+  margin-top: 15px;
 }
 
 .cell1 {
